@@ -1,7 +1,13 @@
 - 👋 Hi, I’m Mavinsvictor
-- 👀 I’m interested in coding & python programming.
-- 🌱 I’m currently learning coding..
-- 💞️ I’m looking to collaborate on coding and python programming 
+     I've learning Graphic Design 
+- 👀 I’m interested in coding.
+- 🌱 I’m already finished 
+     learning Different
+     programing languages like
+     HTML, CSS AND JAVASCRIPT 
+- 💞️ I’m looking to collaborate on.               
+     SOFTWARE DEVELOPER and 
+     SOFTWARE ENGINEER 
 
 
 <!---
