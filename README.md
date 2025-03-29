@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mavinsvictor
-     I've learning Graphic Design 
+     Iam Graphic Designer 
 - 👀 I’m interested in coding.
 - 🌱 I’m already finished 
      learning Different
