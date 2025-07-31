@@ -51,8 +51,12 @@ Discover more of my creative and impactful work:
 
 - 📧 **Email:** [mavinstechsolution@gmail.com](mailto:mavinstechsolution@gmail.com)  
 - 🌐 **Website:** [mavinstechsolution.com](https://mavinsvictor1738.github.io/www.mavinstechsolution.com/)  
-- 💼 **LinkedIn:** *([optional: add your profile URL](https://www.linkedin.com/in/victor-chitole-
+- 💼 **LinkedIn:** [linkedin.com/in/victor-chitole-0505bb2b0](https://www.linkedin.com/in/victor-chitole-0505bb2b0)  
 - 🧑🏾‍💻 **GitHub:** [github.com/mavinsvictor1738](https://github.com/mavinsvictor1738)
+
+---
+
+> _"Your breakthrough begins when you take the first step."_ — Mavins Victor
 
 ---
 
