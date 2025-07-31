@@ -35,7 +35,8 @@ Discover more of my creative and impactful work:
 - 💼 [Mavinstech Portfolio Website](https://mavinsvictor1738.github.io/Mavinstech-solution-portfolio/)  
   **Purpose:** To showcase the services, values, and vision of Mavinstech Solution  
   **Target Users:** Clients, schools, partners, and potential collaborators  
-  **Key Features:** Responsive design, service highlights, testimonials, blog previews
+  **Key Features:** Responsive design, service highlights, testimonials, and blog previews
+
 
 - 📲 [Devotional & Prayer Journal App](https://mavinsvictor1738.github.io/Ganze-Kaloleni-Devotional-App/)  
   **Purpose:** To help youth grow spiritually through daily engagement with Scripture  
