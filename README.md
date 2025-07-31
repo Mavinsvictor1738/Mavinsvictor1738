@@ -32,7 +32,7 @@ With **Mavinstech Solution**, I aim to bridge the digital divide by combining **
 
 Discover more of my creative and impactful work:
 
-- 💼 [Mavinstech Portfolio Website](https://github.com/Mavinstech-solution-portfolio)  
+- 💼 [Mavinstech Portfolio Website](https://mavinsvictor1738.github.io/Mavinstech-solution-portfolio/)  
   **Purpose:** To showcase the services, values, and vision of Mavinstech Solution  
   **Target Users:** Clients, schools, partners, and potential collaborators  
   **Key Features:** Responsive design, service highlights, testimonials, blog previews
