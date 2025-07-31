@@ -8,13 +8,13 @@
 
 I’m a passionate and purpose-driven front-end developer with expertise in building responsive websites, interactive learning tools, and faith-based web applications. I bring ideas to life using **HTML, CSS, JavaScript**, and modern UI principles.
 
-As a **Digital Skills Trainer**, I work with schools, youth programs, and community groups to equip learners with job-ready tech skills — from basic digital literacy to creative coding.
+As a **Digital Skills Trainer**, I work with schools, youth programs, and community groups — including Compassion-based NGOs — to equip learners with job-ready tech skills, from basic digital literacy to creative coding.
 
-Through my role as an **EdTech Consultant**, I lead impactful projects in rural and underserved areas, deploying offline learning solutions like **Kolibri**, and integrating **smartboard and VR training** into classrooms.
+Through my role as an **EdTech Consultant**, I lead impactful projects in rural and underserved areas, deploying offline learning solutions like **Kolibri**, and integrating **smartboard** and **VR training** into classrooms.
 
-With Mavinstech Solution, I aim to bridge the digital divide by combining education, innovation, and faith in every project I build.
+With **Mavinstech Solution**, I aim to bridge the digital divide by combining **education, innovation, and faith** in every project I build.
 
-> "I don’t just write code — I design solutions that educate, inspire, and uplift."
+> _"I don’t just write code — I design solutions that educate, inspire, and uplift."_
 
 
 ---
