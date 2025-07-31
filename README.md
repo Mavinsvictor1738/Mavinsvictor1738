@@ -14,24 +14,23 @@
 - 🎨 Graphics & branding (logos, banners, print materials)
 - 📱 Developer of Christian Devotional & Faith-Based Apps for youth
 
----
+ 
 
 ### 📌 Portfolio Projects
 
 Discover more of my creative and impactful work:
 
 - 💼 [Mavinstech Portfolio Website](https://github.com/Mavinstech-solution-portfolio)
-- 📲 [Devotional & Prayer Journal App](https://github.com/Ganze-Kaloleni-Devotional-App)
+- 📲 [Devotional & Prayer Journal App](https://mavinsvictor1738.github.io/Ganze-Kaloleni-Devotional-App/)
 
-> 🔍 **Explore the full portfolio** at [mavinstechsolution.com](https://www.mavinstechsolution.com)
+> 🔍 **Explore the full portfolio** at (https://mavinsvictor1738.github.io/www.Mavins-prompt.com/)
 
 ---
 
 ### 📫 Let's Connect
-
+     
 - 📧 Email: [mavinstechsolution@gmail.com](mailto:mavinstechsolution@gmail.com)
-- 🌐 Website: [mavinstechsolution.com](https://www.mavinstechsolution.com)
-- 🧠 Blog: [Tech & Faith Insights](https://mavinstechsolution.com/blog)
+- 🌐 Website: [mavinstechsolution.com](https://mavinsvictor1738.github.io/www.mavinstechsolution.com/)
 
 ---
 
